@@ -1,0 +1,11 @@
+.form-horizontal {
+    BORDER: 1px solid #cbc8c8;
+    width: 80%;
+    margin: 2% auto;
+    border-radius: 6px;
+    padding: 2%;
+}
+
+h1 {
+    text-align: center;
+}

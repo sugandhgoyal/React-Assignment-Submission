@@ -1,0 +1,20 @@
+.navbar>.container, .navbar>.container-fluid {
+    margin-left: 12px;
+    padding: 0px;
+    margin-right: 0px;
+    justify-content: none;
+}
+
+.nav {
+    display: inline;
+}
+
+#title {
+    color: #1909E8;
+    font-weight: 700;
+    font-size: 29px;
+}
+
+ul li {
+    font-size: 20px;
+}

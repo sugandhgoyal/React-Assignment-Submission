@@ -1,0 +1,13 @@
+/**
+ *  All constants should go here
+ */
+
+export const LOAD_DATA = 'LOAD_DATA';
+export const LOAD_DATA_SUCCESS = 'LOAD_DATA_SUCCESS';
+export const LOAD_DATA_ERROR = 'LOAD_DATA_ERROR';
+export const DATA_CONVERT = 'DATA_CONVERT';
+export const DATA_CONVERT_SUCCESS = 'DATA_CONVERT_SUCCESS';
+export const DATA_CONVERT_ERROR = 'DATA_CONVERT_ERROR';
+export const LAZY_LOADER_ACTIVATED = 'LAZY_LOADER_ACTIVATED';
+export const LAZY_LOADER_ERROR = 'LAZY_LOADER_ERROR';
+export const LAZY_LOADER_SUCCESS = 'LAZY_LOADER_SUCCESS';

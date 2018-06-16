@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "lodash": "^4.17.5",
+    "nodemon": "^1.17.1"
+  }
+}
